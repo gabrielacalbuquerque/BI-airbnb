@@ -47,10 +47,13 @@ O projeto seguiu um fluxo de trabalho completo de BI:
     ```
 5.  **Visualização e Storytelling:** Os dados foram apresentados em um dashboard interativo projetado para contar a história do mercado de Airbnb em NY, respondendo às principais perguntas de negócio.
 
----
-## 📂 Estrutura do Repositório
 
-* **/dashboard:** Contém o arquivo `.pbix` do Power BI e a imagem do dashboard final.
-* **/scripts:** Armazena os scripts de limpeza (`.py`) e as consultas de transformação (`.sql`).
-* **Ficha_Tecnica.pdf:** A documentação completa do projeto.
-* `README.md`: Este arquivo.
+## 🔗 Links de Interesse
+- **[Google Colab projeto](https://colab.research.google.com/drive/1_ISjJgGiUgCNHuxa7onBCF8pVPVf3ljq?usp=sharing)**
+- **[Ficha técnica completa no Notion](https://www.notion.so/Ficha-t-cnica-rota-de-aprendizagem-Business-Intelligence-BI-22d6dbae3c968056832fd01a479f7781?source=copy_link)**
+
+---
+## Contato
+
+Gabriela Albuquerque  
+[LinkedIn](https://www.linkedin.com/in/gabriela-cdeallbuquerque/) | [Portfólio](https://github.com/gabrielacalbuquerque)
