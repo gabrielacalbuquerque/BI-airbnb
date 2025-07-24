@@ -2,8 +2,8 @@
 
 ## 📊 Dashboard Final
 
-![Dashboard Final do Projeto Airbnb](dashboard airbnb.jpg)
-*(Para que a imagem apareça, suba o arquivo 'dashboard airbnb.jpg' para a raiz do seu repositório GitHub)*
+![Dashboard Final do Projeto Airbnb](dashboard-airbnb.png)
+
 
 ---
 
